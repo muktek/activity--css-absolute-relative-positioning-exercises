@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background: url('../images/flag-of-mexico.svg');
+  background-size: cover;
+}
+
+#app-container{
+  background: #fff;
+  margin: 0 auto;
+  min-height: 100vh;
+  max-width: 800px;
+  padding: 20px;
+}
+h1{text-align: left;}
+p {text-align: left;}
+table{
+  border-collapse: collapse;
+}
+td {
+  text-align: right;
+}
+td:nth-of-type(2) {
+  text-align: right;
+}
+
+.errors {
+  color: red;
+  font-weight: bold;
+}
