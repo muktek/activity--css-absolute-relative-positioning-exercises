@@ -1,12 +1,10 @@
-# Thumbnails
+# Warmup - CSS - Relative + Absolute Positioning
 
-## Steps
-
-## Exercise 1
+## Exercise 1 - Relative Positioning
 
 #### Setup
 
-Fork the pen [Warmup - CSS Positioning - Relative](https://codepen.io/muktek-warmups/pen/zaQzjG) to your profile.
+Fork the pen [Warmup - CSS Positioning - Relative](https://codepen.io/muktek-warmups/pen/zaQzjG?editors=1100) to your profile.
 
 #### Instructions
 
@@ -17,14 +15,14 @@ Create the following:
 
 
 
-## Exercise 2
+## Exercise 2 - Absolute Positioning
 
 #### Setup
 
-Fork the pen [Warmup - CSS Positioning - Absolute](https://codepen.io/muktek/pen/mXOrQJ) to your profile.
+- Fork the pen [Warmup - CSS Positioning - Absolute](https://codepen.io/muktek-warmups/pen/yEWXEd?editors=1100) to your profile.
 
 #### Instructions
 
-Create the following:
+- Create the following in the codepen repo:
 
 ![mockups-rel](mockups/css-positioning-warmup-absolute-example.png)
