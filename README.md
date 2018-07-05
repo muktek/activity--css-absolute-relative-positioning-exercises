@@ -8,7 +8,7 @@ Fork the pen [Warmup - CSS Positioning - Relative](https://codepen.io/muktek-war
 
 #### Instructions
 
-Create the following:
+- Edit the CSS to create the demo below in the codepen repo. Use relative positioning:
 
 ![mockups-rel](mockups/css-positioning-warmup-relative-example.png)
 
@@ -23,6 +23,6 @@ Create the following:
 
 #### Instructions
 
-- Create the following in the codepen repo:
+- Edit the CSS to create the demo below in the codepen repo. Use absolute positioning:
 
 ![mockups-rel](mockups/css-positioning-warmup-absolute-example.png)
